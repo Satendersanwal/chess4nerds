@@ -235,7 +235,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ##  Contact
 
-**Developer**: Subhankar Satpathy ([@suwubh](https://github.com/Satendersanwal))  
+**Developer**: Satender Sanwal ([@suwubh](https://github.com/Satendersanwal))  
 **Email**: satendersanwal15@gmail.com  
 **Repository**: [Chess4Nerds]([https://github.com/Satendersanwal/chess4nerds])
 
